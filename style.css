@@ -1,0 +1,24 @@
+*
+{
+    padding: 25px;
+    margin: 20px%;
+    height: 800PX;
+    margin: 200px;                           <!--formproperties-->
+    max-width: 500px;
+    font-family: sans-serif;
+}
+body
+{
+background:url(wall1.jpg)no-repeat;
+background-size: cover;
+}
+
+
+.login-form     
+{
+    width: 350px;
+    top: 50px;
+    left: 50px;
+    transform: translate(-50%,-50%); 
+    position: absolute;
+}
